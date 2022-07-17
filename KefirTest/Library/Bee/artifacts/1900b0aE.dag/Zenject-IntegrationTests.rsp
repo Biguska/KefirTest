@@ -310,8 +310,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Zenject-TestFramework.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Zenject.ref.dll"
--analyzer:"Assets/Plugins/DOTween/DOTween.dll"
--analyzer:"Assets/Plugins/DOTween/Editor/DOTweenEditor.dll"
 "Assets/Plugins/Zenject/OptionalExtras/IntegrationTests/Bindings/TestDiContainerMethods/Foo.cs"
 "Assets/Plugins/Zenject/OptionalExtras/IntegrationTests/Bindings/TestDiContainerMethods/Foo2.cs"
 "Assets/Plugins/Zenject/OptionalExtras/IntegrationTests/Bindings/TestDiContainerMethods/Gorp.cs"

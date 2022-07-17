@@ -315,8 +315,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Zenject-TestFramework.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Zenject.ref.dll"
--analyzer:"Assets/Plugins/DOTween/DOTween.dll"
--analyzer:"Assets/Plugins/DOTween/Editor/DOTweenEditor.dll"
 "Assets/Plugins/Zenject/OptionalExtras/UnitTests/Editor/BindFeatures/TestBindingInheritanceMethod.cs"
 "Assets/Plugins/Zenject/OptionalExtras/UnitTests/Editor/BindFeatures/TestConcreteIdentifier.cs"
 "Assets/Plugins/Zenject/OptionalExtras/UnitTests/Editor/BindFeatures/TestIfNotBound.cs"

@@ -311,8 +311,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Zenject-IntegrationTests.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Zenject-TestFramework.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Zenject.ref.dll"
--analyzer:"Assets/Plugins/DOTween/DOTween.dll"
--analyzer:"Assets/Plugins/DOTween/Editor/DOTweenEditor.dll"
 "Assets/Plugins/Zenject/OptionalExtras/IntegrationTests/Tests/Bindings/TestDiContainerMethods/TestDiContainerMethods.cs"
 "Assets/Plugins/Zenject/OptionalExtras/IntegrationTests/Tests/Bindings/TestFromComponent/TestFromComponentOn.cs"
 "Assets/Plugins/Zenject/OptionalExtras/IntegrationTests/Tests/Bindings/TestFromComponent/TestFromNewComponentOn.cs"

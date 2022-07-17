@@ -313,8 +313,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Zenject.ref.dll"
--analyzer:"Assets/Plugins/DOTween/DOTween.dll"
--analyzer:"Assets/Plugins/DOTween/Editor/DOTweenEditor.dll"
 "Assets/Plugins/Zenject/OptionalExtras/TestFramework/SceneTestFixture.cs"
 "Assets/Plugins/Zenject/OptionalExtras/TestFramework/SceneTestFixtureSceneReference.cs"
 "Assets/Plugins/Zenject/OptionalExtras/TestFramework/ValidateOnlyAttribute.cs"
